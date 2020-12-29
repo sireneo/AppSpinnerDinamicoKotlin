@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppSpinnerDinamicoKotlin</string>
+    <string name="seleccione_item">Seleccione uno:</string>
+    <string-array name="Lenguajes">
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Python</item>
+        <item>Ruby</item>
+    </string-array>
+</resources>

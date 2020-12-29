@@ -1,0 +1,2 @@
+rootProject.name = "AppSpinnerDinamicoKotlin"
+include ':app'
